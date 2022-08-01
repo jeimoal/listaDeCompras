@@ -26,8 +26,7 @@ function rmvItem() {
 	let contItem = document.querySelectorAll('.listItem');
 	for (i=0; i < contItem.length; i++){
 		contItem[i].onclick = function() {
-			let btnRmv = this.parentElement;
-			btnRmv.style.display = "none";
+			let btnRmv = this.parentElement.btnRmv.style.display = "none";
 		}
 	}
 }
