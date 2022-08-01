@@ -1,2 +1,2 @@
-# listaDeCompras
-ToDoList de compras, praticando javascript
+# Lista de compras
+Praticando javascript
